@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a enthusiatic software developer who loves to code and drink tea. <br>I am currently working on Web Development Projects<br><br>
+##I am a enthusiatic software developer who loves to code and drink tea. <br>##I am currently working on Web Development Projects<br><br>
 
 
 ## 🌐 Socials:
